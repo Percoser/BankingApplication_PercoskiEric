@@ -1,0 +1,5 @@
+1. Initial Balance: 1000.0
+2. Withdrawl: -600
+Remaining Balance: 400.0
+3. Deposit: +62531
+Remaining Balance: 62931.0
