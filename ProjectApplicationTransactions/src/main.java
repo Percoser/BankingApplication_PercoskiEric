@@ -2,7 +2,7 @@ import java.util.Scanner;
 import javax.swing.JOptionPane;
 import java.io.*;
 
-public class main {
+public class BankingApplication_PercoskiEric {
     public static void main(String[] args) throws IOException {
         Scanner input = new Scanner(System.in);
         Scanner inputone = new Scanner(System.in);
